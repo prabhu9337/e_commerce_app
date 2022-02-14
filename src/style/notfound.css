@@ -1,0 +1,18 @@
+.notFound {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15%;
+}
+.notFound h1 {
+    font-size: 2.5em;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: tomato;
+}
+.notFound span {
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 3em;
+}
